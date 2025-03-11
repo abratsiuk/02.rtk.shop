@@ -26,3 +26,6 @@ git commit -m "vite-template-redux: Vite, with TypeScript"
 git branch -M main
 git remote add origin https://github.com/abratsiuk/02.rtk.shop.git
 git push -u origin main
+
+
+git add -A; git commit -m "vite-template-redux: Vite, with TypeScript"; git push;
